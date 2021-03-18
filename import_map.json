@@ -1,0 +1,6 @@
+{
+    "imports": {
+       "discord-interactions": "https://cdn.skypack.dev/discord-interactions@2.0.2?dts",
+       "workers-types": "https://unpkg.com/@cloudflare/workers-types@2.2.1/index.d.ts"
+    }
+ }

@@ -1,0 +1,12 @@
+type = "javascript"
+account_id = "ee8ef2847e579e59e98a13a70abe2531"
+workers_dev = true
+
+[env.development]
+
+[env.staging]
+name = "background-cat-staging"
+vars = { CLIENT_PUBLIC_KEY = "1c3f7c8076afdd51ef33d7b6d81a72d6ae1f58270ea9b549a819ff2d8e771120"}
+
+[env.production]
+name = "background-cat"
